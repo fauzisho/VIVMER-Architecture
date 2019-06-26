@@ -1,8 +1,6 @@
 
 ## VIVMER Architecture Swift
 
-![VIVMER](https://github.com/fauzisho/VIVMER-Architecture/blob/master/dashboard.png)
-
 ## How to install
 
 ### Using script
@@ -16,15 +14,20 @@ sudo swift install.swift
 
 Click Right Folder -> Click New File -> VIVMER
 
+![VIVMER](https://github.com/fauzisho/VIVMER-Architecture/blob/master/dashboard.png)
+
 
 ### Architecture Menu
-
+#### Option View
 - [x] None
 - [x] Xib
 - [x] StoryBoard
 - [ ] SwiftUI
 
-### Reference 
+### Cases Study
+- [x] Contact App VIVMER (https://github.com/fauzisho/VIVMER-Contact)
+- [ ] VIVMER + RxSwift
+- [ ] VIVMER Multiple View + SwiftUI
 
 ### Contribution
 

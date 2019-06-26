@@ -1,6 +1,7 @@
 
 ## VIVMER Architecture Swift
 
+![VIVMER](https://raw.githubusercontent.com/fauzisho/VIVMER-Architecture/master/dashboard.png)
 
 ## How to install
 

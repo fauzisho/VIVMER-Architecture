@@ -1,8 +1,7 @@
 
 ## VIVMER Architecture Swift
 
-VIVMER is an clean architecture to iOS apps. Clean architecture divided a logical structure combined MVVM and VIPER. The aim of enhancing this architecture is that VIPER has massive effort when use interface pattern to communicate between each component. VIVMER is here to overcome the disproportionate impact of VIPER. Benchmarking analysis still on progress,which we will present the results as soon as possible.
-
+VIVMER is an clean architecture to iOS apps. Clean architecture divided a logical structure combined MVVM and VIPER. The aim of enhancing this architecture is that VIPER has massive effort when use interface pattern to communicate between each component. VIVMER is here to overcome the disproportionate impact of VIPER. 
 ![VIVMER](https://github.com/fauzisho/VIVMER-Architecture/blob/master/draw.png)
 
 ## How to install

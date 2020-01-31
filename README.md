@@ -27,7 +27,7 @@ Click Right Folder -> Click New File -> VIVMER
 - [x] StoryBoard
 - [ ] SwiftUI
 
-### Cases Study
+### Case Studies
 - [x] Contact App VIVMER (https://github.com/fauzisho/VIVMER-Contact)
 - [ ] VIVMER + RxSwift
 - [ ] VIVMER Multiple View + SwiftUI
